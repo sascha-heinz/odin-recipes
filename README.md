@@ -10,7 +10,7 @@ for programmers - for private projects and in companies.
 
 In this repo you will find my first project as part of the course.
 First of all, i will crate my first site with html. It will be a simple site for different
-recipes. Later on i will style this site with css. 
+recipes.
 
 
 
